@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SangYeon's Github&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=SangYeon%27s)
 
 # ✨모두들 안녕 ✨
 
